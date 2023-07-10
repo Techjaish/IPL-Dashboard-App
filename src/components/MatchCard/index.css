@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item-container {
+  background-color: #1e293b;
+  border-radius: 10px;
+}
+.team {
+  font-size: 20px;
+  color: #475569;
+}
+.team-data {
+  color: #475569;
+  font-size: 15px;
+}
+.team-logo {
+  height: 60px;
+  width: 100px;
+}
+.lose {
+  color: #a4261d !important;
+}
+.won {
+  color: #18ed66 !important;
+}

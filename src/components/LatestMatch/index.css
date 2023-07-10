@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.team-detail-container {
+  display: flex;
+  background-color: #000000;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.competing-team {
+  height: 80px;
+  width: 100px;
+}
+.team {
+  font-size: 20px;
+  color: #475569;
+}
+.team-data {
+  color: #475569;
+  font-size: 15px;
+}
